@@ -2,15 +2,13 @@
 
 This is a simple Quiz App built with React that allows users to test their knowledge by answering multiple-choice questions. The app fetches questions and answers from the [Open Trivia Database API](https://opentdb.com/api_config.php).
 
-<!-- ![Quiz App Screenshot](quiz-app-screenshot.png) -->
 
 ## Features
 
 - User-friendly interface for taking quizzes.
 - Questions are fetched from the Open Trivia Database API.
-- Randomly selects questions from various categories.
+- Randomly selects questions from computer Science.
 - Keeps track of the user's score.
-- Provides instant feedback on each answer.
 - Option to restart the quiz.
 
 ## Technologies Used
@@ -25,10 +23,10 @@ To run this Quiz App locally, follow these steps:
 
 ```bash
 # Clone this repository to your local machine:
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/elm-Saad/Quiz-app.git
 
 # Change into the project directory:
-cd quiz-app
+cd Quiz-app
 
 # Install the project dependencies:
 npm install
