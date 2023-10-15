@@ -7,7 +7,7 @@ This is a simple Quiz App built with React that allows users to test their knowl
 
 - User-friendly interface for taking quizzes.
 - Questions are fetched from the Open Trivia Database API.
-- Randomly selects questions from computer Science.
+- Randomly selects questions from Computer Science.
 - Keeps track of the user's score.
 - Option to restart the quiz.
 
@@ -17,3 +17,6 @@ This is a simple Quiz App built with React that allows users to test their knowl
 - [Open Trivia Database API](https://opentdb.com/api_config.php): This API provides the questions and answers for the quiz.
 - HTML/CSS: Basic HTML and CSS are used for structuring and styling the app.
 
+# Try It Out
+
+Check out the live demo of this project on [Netlify](https://saad-elm-quiz-app.netlify.app/).
